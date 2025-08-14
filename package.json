@@ -1,0 +1,9 @@
+{
+  "name": "@vishalmurugan1986/prime-promise",
+  "version": "1.0.0",
+  "description": "A lightweight custom Promise library with .then(), .catch(), .finally(), Promise.all(), wrapper utility, and polyfill support.",
+  "main": "index.js",
+  "keywords": ["promise", "polyfill", "async", "javascript", "wrapper"],
+  "author": "Vishal Murugan",
+  "license": "MIT"
+}
