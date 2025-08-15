@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://github.com/vishalmurugan1986/prime-promise/stargazers">
+    <img src="https://img.shields.io/github/stars/vishalmurugan1986/prime-promise?color=yellow&style=for-the-badge" alt="Stars">
+  </a>
+  <a href="https://github.com/vishalmurugan1986/prime-promise/issues">
+    <img src="https://img.shields.io/github/issues/vishalmurugan1986/prime-promise?color=brightgreen&style=for-the-badge" alt="Issues">
+  </a>
+  <a href="https://github.com/vishalmurugan1986/prime-promise/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/vishalmurugan1986/prime-promise?color=blue&style=for-the-badge" alt="License">
+  </a>
+</p>
+
+
 # Prime Promise
 
 A lightweight **custom Promise** JavaScript implementation for learning internals & syntax flow. 
